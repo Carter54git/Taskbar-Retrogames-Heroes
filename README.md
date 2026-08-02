@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="#-download">Download</a> ·
-  <a href="#-features">Features</a> ·
-  <a href="#-sprites--license">Free &amp; sprites</a> ·
+  <a href="#download">Download</a> ·
+  <a href="#features">Features</a> ·
+  <a href="#sprites--license">Free &amp; sprites</a> ·
   <a href="https://t.me/gamebase54">Telegram</a> ·
   <a href="https://github.com/Carter54git">GitHub</a>
 </p>
 
 ---
 
-## ✨ What is this?
+## What is this?
 
 A lightweight desktop toy: pixel heroes from classic games **run, jump, and idle** right on your Windows taskbar (and on the Dock / panel on macOS and Linux).
 
@@ -30,7 +30,7 @@ No system installer, no ads, no payment — **the program is completely free**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Taskbar as a stage** — heroes walk on top of the taskbar / Dock
 - **Quick spawn** — Sonic Trio, Lost Vikings, Hard Corps, Streets of Rage
@@ -44,7 +44,7 @@ No system installer, no ads, no payment — **the program is completely free**.
 
 ---
 
-## 📦 Download
+## Download
 
 | Platform | File |
 |----------|------|
@@ -58,7 +58,7 @@ No system installer, no ads, no payment — **the program is completely free**.
 
 ---
 
-## 🎮 Roster
+## Roster
 
 | Series | Heroes |
 |--------|--------|
@@ -72,7 +72,7 @@ Create your own hero in the **Character Editor** — Load sheet / frames / folde
 
 ---
 
-## 🖱 Controls
+## Controls
 
 | Action | How |
 |--------|-----|
@@ -84,7 +84,7 @@ Create your own hero in the **Character Editor** — Load sheet / frames / folde
 
 ---
 
-## 🕹 Sprites & license
+## Sprites & license
 
 ### The app is free
 
@@ -108,14 +108,14 @@ Details: [`CREDITS.md`](CREDITS.md).
 
 ---
 
-## 💬 Links
+## Links
 
 - Telegram: [t.me/gamebase54](https://t.me/gamebase54)  
 - GitHub: [github.com/Carter54git](https://github.com/Carter54git)  
 
 ---
 
-## 🛠 From source
+## From source
 
 ```bash
 pip install -r requirements.txt
