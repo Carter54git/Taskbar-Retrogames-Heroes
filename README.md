@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="media/01-taskbar.png" alt="Lost Vikings walking on the Windows taskbar" width="820">
+  <img src="media/01-taskbar.png" alt="Lost Vikings walking on the Windows taskbar" width="420">
 </p>
 
 <h1 align="center">Taskbar Retrogames Heroes</h1>
 
 <p align="center">
-  <strong>Ретро-герои, которые гуляют по вашей панели задач</strong><br>
   <em>Retro game characters that walk on your taskbar / Dock / panel</em>
 </p>
 
 <p align="center">
-  <a href="#-скачать">Windows</a> ·
-  <a href="#-возможности">Features</a> ·
-  <a href="#-спрайты-и-лицензия">Free &amp; sprites</a> ·
+  <a href="#-download">Download</a> ·
+  <a href="#-features">Features</a> ·
+  <a href="#-sprites--license">Free &amp; sprites</a> ·
   <a href="https://t.me/gamebase54">Telegram</a> ·
   <a href="https://github.com/Carter54git">GitHub</a>
 </p>
@@ -25,11 +24,11 @@
 
 ---
 
-## ✨ Что это?
+## ✨ What is this?
 
-Лёгкая desktop-игрушка: пиксельные герои из классических игр **бегают, прыгают и бездельничают** прямо на панели задач Windows (а также на Dock / панели в macOS и Linux).
+A lightweight desktop toy: pixel heroes from classic games **run, jump, and idle** right on your Windows taskbar (and on the Dock / panel on macOS and Linux).
 
-Никаких установок «в систему», никакой рекламы, никакой платы — **программа распространяется абсолютно бесплатно**.
+No system installer, no ads, no payment — **the program is completely free**.
 
 <p align="center">
   <img src="media/02-settings.png" alt="Settings window with character list" width="480">
@@ -37,13 +36,13 @@
 
 ---
 
-## 🚀 Возможности
+## 🚀 Features
 
-- **Панель задач как сцена** — герои ходят поверх taskbar / Dock
-- **Быстрый спавн** — Sonic Trio, Lost Vikings, Hard Corps, Streets of Rage
-- **Редактор персонажей** — вырежи кадры из спрайт-листа, сохрани своего героя
-- **Трей / меню** — добавить героя, настройки, despawn all, About
-- **Кроссплатформа** — Windows, macOS, Linux
+- **Taskbar as a stage** — heroes walk on top of the taskbar / Dock
+- **Quick spawn** — Sonic Trio, Lost Vikings, Hard Corps, Streets of Rage
+- **Character editor** — cut frames from a sprite sheet and save your own hero
+- **Tray / menu bar** — add heroes, open settings, despawn all, About
+- **Cross-platform** — Windows, macOS, Linux
 
 <p align="center">
   <img src="media/03-editor.png" alt="Character Editor cutting frames from a sprite sheet" width="720">
@@ -51,94 +50,94 @@
 
 ---
 
-## 📦 Скачать
+## 📦 Download
 
-| Платформа | Файл |
-|-----------|------|
+| Platform | File |
+|----------|------|
 | **Windows x64** | [`downloads/TaskbarRetrogamesHeroes-windows-x64.zip`](downloads/TaskbarRetrogamesHeroes-windows-x64.zip) |
 
-1. Распакуй архив  
-2. Запусти `TaskbarRetrogamesHeroes.exe`  
-3. Иконка появится в трее — оттуда можно добавлять героев  
+1. Unzip the archive  
+2. Run `TaskbarRetrogamesHeroes.exe`  
+3. Use the tray icon to add heroes  
 
-> macOS / Linux: собирай из исходников (`build_unix.sh` / `run_heroes.sh` в репозитории проекта).
+> macOS / Linux: build from source (`build_unix.sh` / `run_heroes.sh` in the project repo).
 
 ---
 
-## 🎮 Кто уже в сборке
+## 🎮 Roster
 
-| | Герои |
-|---|---|
+| Series | Heroes |
+|--------|--------|
 | **Lost Vikings** | Erik · Baleog · Olaf |
 | **Sonic** | Sonic · Tails · Knuckles |
 | **Contra** | Ray · Sheena · Fang · Browny · Bill |
 | **Streets of Rage** | Axel · Blaze |
-| **и другие** | Kirby · Earthworm Jim · Sketch Turner · Mario · Samus |
+| **More** | Kirby · Earthworm Jim · Sketch Turner · Mario · Samus |
 
-Сделай своего героя через **Character Editor** — Load sheet / frames / folder.
-
----
-
-## 🖱 Управление
-
-| Действие | Как |
-|----------|-----|
-| Прыжок | ЛКМ по герою / Space |
-| Разворот | Двойной клик |
-| Меню | ПКМ (на Mac — Ctrl+клик) |
-| Пауза / charge / switch | Контекстное меню героя |
-| Настройки | Клик по иконке в трее |
+Create your own hero in the **Character Editor** — Load sheet / frames / folder.
 
 ---
 
-## 🕹 Спрайты и лицензия
+## 🖱 Controls
 
-### Программа — бесплатно
-
-Приложение **абсолютно бесплатное** (freeware / MIT):
-
-- можно пользоваться без оплаты  
-- можно копировать и раздавать друзьям  
-- можно собирать из исходников  
-
-См. файл [`LICENSE`](LICENSE).
-
-### Спрайты — из открытых источников
-
-Все встроенные спрайты взяты из **открытых / публичных источников** ретро-сообщества (в том числе архивы вроде [The Spriters Resource](https://www.spriters-resource.com/) и аналогичные).
-
-- Мы **не** претендуем на права на персонажей и арт  
-- Игра / издатель / художники остаются владельцами своих работ  
-- Проект — некоммерческая фанатская игрушка для рабочего стола  
-
-Подробности — в [`CREDITS.md`](CREDITS.md).
+| Action | How |
+|--------|-----|
+| Jump | Left-click hero / Space |
+| Turn around | Double-click |
+| Context menu | Right-click (on Mac: Ctrl+click) |
+| Pause / charge / switch | Hero context menu |
+| Settings | Click the tray icon |
 
 ---
 
-## 💬 Связь
+## 🕹 Sprites & license
+
+### The app is free
+
+This application is **completely free** (freeware / MIT):
+
+- use it at no cost  
+- share it with friends  
+- build it from source  
+
+See [`LICENSE`](LICENSE).
+
+### Sprites from open sources
+
+Bundled sprites were taken from **public / open community sources** for retro games (including archives such as [The Spriters Resource](https://www.spriters-resource.com/) and similar).
+
+- We do **not** claim ownership of any character or artwork  
+- Games, publishers, and artists remain the rights holders  
+- This project is a non-commercial fan desktop toy  
+
+Details: [`CREDITS.md`](CREDITS.md).
+
+---
+
+## 💬 Links
 
 - Telegram: [t.me/gamebase54](https://t.me/gamebase54)  
 - GitHub: [github.com/Carter54git](https://github.com/Carter54git)  
 
 ---
 
-## 🛠 Из исходников (кратко)
+## 🛠 From source
 
 ```bash
 pip install -r requirements.txt
 python launcher.py          # Windows / any
-# или
+# or
 ./run_heroes.sh             # macOS / Linux
 ```
 
-Сборка Windows: `build_exe.bat` → `dist/TaskbarRetrogamesHeroes/`  
-Сборка Unix: `./build_unix.sh`
+Windows build: `build_exe.bat` → `dist/TaskbarRetrogamesHeroes/`  
+Unix build: `./build_unix.sh`
 
-Если герои «висят» не на панели: `set HEROES_GROUND_Y=1050` (Y верхнего края панели).
+If heroes sit at the wrong height: `set HEROES_GROUND_Y=1050` (Y of the top edge of the panel).
 
 ---
 
 <p align="center">
   <sub>Made for fun · Free forever · Retro forever</sub><br>
-  <sub>© sprites belong to their original owners · app code MIT</sub>
+  <sub>Sprites belong to their original owners · app code MIT</sub>
 </p>
