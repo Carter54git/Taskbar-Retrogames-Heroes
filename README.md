@@ -18,7 +18,7 @@
 
 <p align="center">
   <img alt="Free" src="https://img.shields.io/badge/price-FREE-2ea44f?style=for-the-badge">
-  <img alt="Platforms" src="https://img.shields.io/badge/Windows-macOS-Linux-1a3328?style=for-the-badge">
+  <img alt="Platforms" src="https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-1a3328?style=for-the-badge">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-f0c01a?style=for-the-badge">
 </p>
 
